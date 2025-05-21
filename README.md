@@ -11,10 +11,10 @@ This small project demonstrates a PHP-based Contact Form. The project allows the
 
 ### Features
 - Basic User Login (Admin Only ⚠️):
-  The login feature is more appreciated for accessing the admin panel for viewing all forms. To make the project more convenient to use, I decided to only allow admins to log in to view all forms, but kept open access for submitting form data. This reduces the hassle of requiring two separate authentication accesses (admins and non-admins) for submitting forms, given the 2-hour time constraint
+    The login feature is more appreciated for accessing the admin panel for viewing all forms. To make the project more convenient to use, I decided to only allow admins to log in to view all forms, but kept open access for submitting form data. This reduces the hassle of requiring two separate authentication accesses (admins and non-admins) for submitting forms, given the 2-hour time constraint
 
 - Basic Form Submission (Open access ✅):
-  The no. 1 goal of the form is to collect data. Assuming that this form is only being used by employees of a company, I decided to skip the general authentication required to reduce the time required to record the data. 
+    The no. 1 goal of the form is to collect data. Assuming that this form is only being used by employees of a company, I decided to skip the general authentication required to reduce the time required to record the data. 
 
 ## Installation 
 1. To install and run this project, you must download and install XAMPP. If you do not have XAMPP installed, [click here](https://www.apachefriends.org/index.html). As you install it, make sure that the 'Apache' and 'MySQL' modules are installed.
