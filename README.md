@@ -7,8 +7,8 @@ This small project demonstrates a PHP-based Contact Form. The project allows the
 1. To install and run this project, you must download and install XAMPP. If you do not have XAMPP installed, [click here](https://www.apachefriends.org/index.html). As you install it, make sure that the 'Apache' and 'MySQL' modules are installed.
 ![image](https://github.com/user-attachments/assets/3d594d51-d5cd-4bbc-af4a-c42d8368d738)
 
-Click Start on 'Apache' and 'MySQL' modules:
-![image](https://github.com/user-attachments/assets/20e7e5fe-300c-4d81-bdb2-e15647c94e96)
+   Click Start on 'Apache' and 'MySQL' modules:
+   ![image](https://github.com/user-attachments/assets/20e7e5fe-300c-4d81-bdb2-e15647c94e96)
 
 2. Download this repository and store it in the XAMPP directory:
    ```sh
@@ -51,29 +51,29 @@ Click Start on 'Apache' and 'MySQL' modules:
 
 ## Usage
 1. Go to your browser's URL and enter the following link:
-```sh
-http://localhost/contact-form/contact_form.php
-```
-Example:
-![image](https://github.com/user-attachments/assets/45260cdb-3e16-4d38-909f-b4f2ff4f6ffb)
-
-From here, you can enter the form details and submit them. (Log in not required)  
+   ```sh
+   http://localhost/contact-form/contact_form.php
+   ```
+   Example:
+   ![image](https://github.com/user-attachments/assets/45260cdb-3e16-4d38-909f-b4f2ff4f6ffb)
+   
+   From here, you can enter the form details and submit them. (Log in not required)  
 
 2. You can also navigate to the admin login page via the navigation bar to log in (use the Admin user details you recently created).
-```sh
-http://localhost/contact-form/admin_login.php
-```
-Example:
-![image](https://github.com/user-attachments/assets/b80c10d6-5792-4324-9290-9f1822e440be)
+   ```sh
+   http://localhost/contact-form/admin_login.php
+   ```
+   Example:
+   ![image](https://github.com/user-attachments/assets/b80c10d6-5792-4324-9290-9f1822e440be)
 
 3. Once you've logged in, you'll be redirected to the Admin Panel to see all the submitted forms in the most recent order.
-```sh
-http://localhost/contact-form/admin.php
-```
-Example:
-![image](https://github.com/user-attachments/assets/29a5f7cc-f808-47a7-96c2-23c2271fd17e)
-
-NOTE: You need to be logged in to access this page, otherwise, you'll be redirected to the admin login page. ⚠️
+   ```sh
+   http://localhost/contact-form/admin.php
+   ```
+   Example:
+   ![image](https://github.com/user-attachments/assets/29a5f7cc-f808-47a7-96c2-23c2271fd17e)
+   
+   NOTE: You need to be logged in to access this page, otherwise, you'll be redirected to the admin login page. ⚠️
 
 ## Credits
 Shingai Dzinotyiweyi [GitHub Profile](https://github.com/C-CREAD)
