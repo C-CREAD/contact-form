@@ -1,5 +1,5 @@
 <?php
-    require_once("authentication.php");
+    require_once("includes/authentication.php");
 
     // Clear session data
     $_SESSION = array();
